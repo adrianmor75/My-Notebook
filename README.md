@@ -25,11 +25,11 @@ The most common libraries use in Data Science are:
 * Scala
   
 
-# ## **Objectives**
-# * Create one column table
-# * Make different exercise to create a Jupyter Notebook
-# * Practice different ways to creat text with markdown cells
-# * Use code cells with arithmetic operations
+## **Objectives**
+* Create one column table
+* Make different exercise to create a Jupyter Notebook
+* Practice different ways to creat text with markdown cells
+* Use code cells with arithmetic operations
 
 ## Data Science Tools
 | Data Science Tools |
