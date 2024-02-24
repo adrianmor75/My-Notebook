@@ -39,6 +39,40 @@ The most common libraries use in Data Science are:
 | MongoDB|
 |Apache AirFlow|
 |KubeFlow|
+### Below are few examples of evaluatin arithmetic expressions in Phyton
+
+In[1]
+3+5
+
+
+In[2]:
+
+
+-9+8-7-21+38
+
+
+
+
+
+-5*2+(-7/17)
+
+
+#### Exercise 8 Code exercise
+
+In[5]:
+
+
+'This is a simple arithmetic expresion to multiply then add integers'
+(3*4)+5
+
+
+#### Converting minutes  to hours
+
+# In[6]:
+
+
+'This will convert 200 minutes to hours by dividing by 60'
+200/60
 
 ### Author 
 **Itzam Adrián Morales**
